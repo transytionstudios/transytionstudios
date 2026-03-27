@@ -1,1 +1,10 @@
-
+{
+  "apps": [
+    {
+      "name": "SuperSudoku",
+      "description": "Sudoku App with special effects",
+      "iconUrl": "https://play-lh.googleusercontent.com/MFPRG5x19Ts3WG6jokUVOjyKCBGPetOTFxjvRl-gnkI0F_g-VPmm9Dq_JOBV4UISIkXZXimQSEWwbpfs3oqWFg=w480-h960-rw",
+      "storeLink": "https://play.google.com/store/apps/details?id=com.TransytionStudios.SuperSudoku"
+    }
+  ]
+}
