@@ -1,0 +1,15 @@
+{
+  "notifications": [
+    {
+      "sno": 1,
+      "type": "new_app",
+      "id": "app001",
+      "title": "Subscribe to our Youtube channel!",
+      "description": "Take a sneak peek at all the other apps we have published",
+      "url": "https://www.youtube.com/@transytionstudios",
+      "image": "https://yourcdn.com/images/app001.png",
+      "timestamp":"2025-08-06T15:00:00Z",
+      "showOnce": false
+    }
+  ]
+}
